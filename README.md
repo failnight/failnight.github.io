@@ -36,8 +36,7 @@ The announcement must not contain the exact location of the event. This informat
 
 ## Upcoming events
 
-* 2022-05-26 - Budapest, Hungary
-* You can watch [@hekkcamp](https://twitter.com/hekkcamp) for real-time info.
+* N/A
 
 If you want your event to show up here, issue a PR to the [repository](https://github.com/failnight/failnight.github.io).
 
